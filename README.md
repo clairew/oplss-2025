@@ -30,6 +30,5 @@ Each of these are directories with materials, project ideas, etc. Feel free to m
 ## Environment Setup Recommendations
 WIP - someone please share nixos configs! 
 
-
 ## OPLSS Implementations 
 If you have started implementing anything related to the school, make a PR to share your repository on this README. 
